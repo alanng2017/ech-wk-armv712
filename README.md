@@ -192,7 +192,13 @@ curl -I -x socks5h://127.0.0.1:30000 https://www.google.com
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=upleung/ech-wk-armv7&type=Date)](https://www.star-history.com/#upleung/ech-wk-armv7&Date)
+<a href="https://star-history.com/#upleung/ech-wk-armv7&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=upleung/ech-wk-armv7&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=upleung/ech-wk-armv7&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=upleung/ech-wk-armv7&type=Date" />
+  </picture>
+</a>
 
 <br>
 
